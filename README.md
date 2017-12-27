@@ -2,7 +2,7 @@
 
 **What's the use of it?**
 
-Generally, our resources is processed by the common **loader**s which at **webpack**'s configuration files (such as webpack.config.js), but in some cases, there are some special resources which don't need to be processed by the common **loader**s, but use special **loader**s . This **loader** is used to ignore general **loader**s and providing raw resources.
+Generally, our resources is processed by the common **loader**s which at **webpack**'s configuration files (such as webpack.config.js), but in some cases, there are some special resources which don't need to be processed by the common **loader**s, but use special **loader**s . This **loader** is used to ignore common **loader**s and providing raw resources.
 
 **Which loaders can be ignored?**
 
