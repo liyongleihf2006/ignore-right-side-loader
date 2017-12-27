@@ -1,0 +1,25 @@
+{
+  "name": "ignore-right-side-loader",
+  "version": "1.0.0",
+  "description": "to ignore the right side loaders and return the original resource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "ignore",
+    "right",
+    "side",
+    "resource",
+    "restart",
+    "original"
+  ],
+  "author": "liyongleihf2006",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/liyongleihf2006/ignore-right-side-loader.git"
+  }
+}
